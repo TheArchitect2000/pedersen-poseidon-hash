@@ -1,5 +1,7 @@
 # pedersen-poseidon-hash
 
+### General Instructions:
+
 	1.	This is an individual exam. No collaboration, external help, or internet browsing (except for documentation) is allowed.
 	2.	You must write and submit functional code that adheres to the problem statement.
 	3.	Your submission must include:
@@ -11,10 +13,7 @@
 	6.	Submission format: Upload a ZIP file containing all your code files and README.
 	7.	Late submissions will not be accepted.
 
-⸻
-
-Problem Statement:
-
+### Problem Statement:
 You need to implement a Client-Server application where:
 	•	The client connects to a server running on TCP port 10,000.
 	•	The protocol begins with the client sending “HELO” to the server. The server responds with “OK”.
